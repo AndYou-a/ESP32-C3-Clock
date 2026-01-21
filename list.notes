@@ -1,0 +1,52 @@
+材料清单 / Materials List
+中文版
+需要准备的材料：
+ESP32-C3 super mini 开发板
+0.96英寸 RGB 80×160 屏幕
+SHT31-D 温湿度传感器
+TTP223 触摸按钮
+100K欧姆和200K欧姆电阻各一个
+线路连接图：
+屏幕连接（屏幕 → 开发板）：
+SCL → GPIO 8
+SDA → GPIO 9
+RES → GPIO 10
+DC → GPIO 20
+CS → GPIO 21
+TTP223触摸按钮连接（按钮 → 开发板）：
+I/O → GPIO 1
+SHT31-D温湿度传感器连接（传感器 → 开发板）：
+SDA → GPIO 2
+SCL → GPIO 0
+分压电阻连接（用于电池电压检测）：
+3.7V锂电池正极 → 100K电阻 → GPIO 3 → 200K电阻 → GND
+English Version
+Materials Required:
+ESP32-C3 super mini development board
+0.96-inch RGB 80x160 display
+SHT31-D temperature and humidity sensor
+TTP223 touch button
+100K ohm and 200K ohm resistors
+Circuit Connections:
+Display (Display → Development Board):
+SCL → GPIO 8
+SDA → GPIO 9
+RES → GPIO 10
+DC → GPIO 20
+CS → GPIO 21
+TTP223 Touch Button (Button → Development Board):
+I/O → GPIO 1
+SHT31-D Sensor (Sensor → Development Board):
+SDA → GPIO 2
+SCL → GPIO 0
+Voltage Divider (for battery monitoring):
+3.7V Li-ion battery positive → 100K resistor → GPIO 3 → 200K resistor → GND
+重要提示 / Important Notes
+电源注意事项 / Power considerations:
+确保使用3.7V锂电池，并通过分压电路测量电压
+Ensure using 3.7V Li-ion battery and measure voltage through voltage divider circuit
+连接检查 / Connection check:
+建议在焊接前先用面包板测试所有连接
+It's recommended to test all connections on a breadboard before soldering
+软件 / App
+Arduino IDE
