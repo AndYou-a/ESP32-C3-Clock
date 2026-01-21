@@ -31,6 +31,7 @@ STA模式界面灵感：时钟主界面设计灵感来源于 YouTube 创作者 H
 引脚配置：SDA(GPIO2), SCL(GPIO0), TFT屏幕使用专用SPI引脚
 这是一个功能完善、界面炫酷的智能时钟项目，完美融合了物联网连接、环境感知和用户交互，适合作为桌面智能终端或物联网开发学习平台。
 材料清单和重要提示：https://github.com/AndYou-a/ESP32-C3-Clock/blob/4e75d7cc0e85aebd8d4fcb729db71a940c304edb/list.notes
+源码和固件下载在![Releases](https://github.com/AndYou-a/ESP32-C3-Clock/releases)界面
 
 ===========================================================================================================================================
 
@@ -65,6 +66,7 @@ Interaction: GPIO1 capacitive touch button
 Pin Configuration: SDA(GPIO2), SCL(GPIO0), TFT screen uses dedicated SPI pins
 This is a fully-featured, visually stunning smart clock project that perfectly integrates IoT connectivity, environmental sensing, and user interaction. Ideal as a desktop smart terminal or IoT development learning platform.
 Materials List And Important Notes:https://github.com/AndYou-a/ESP32-C3-Clock/blob/4e75d7cc0e85aebd8d4fcb729db71a940c304edb/list.notes
+Download firmware and code from ![Peleases](https://github.com/AndYou-a/ESP32-C3-Clock/releases)
 ![80097824b85e2bf1d27417dcf0d11cbe](https://github.com/user-attachments/assets/aa057a57-5442-4322-8433-60b31920f7bc)
 ![c8c0215cec37bcd124b51ea81b5bafdb](https://github.com/user-attachments/assets/bb3ee20e-279f-45a3-bb19-ca75a43812e4)
 ![47c000e698bfd3ea7fcf0f7873494151](https://github.com/user-attachments/assets/c1c2ace1-83f1-4f06-9670-ee31365de00a)
