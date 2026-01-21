@@ -65,3 +65,7 @@ Interaction: GPIO1 capacitive touch button
 Pin Configuration: SDA(GPIO2), SCL(GPIO0), TFT screen uses dedicated SPI pins
 This is a fully-featured, visually stunning smart clock project that perfectly integrates IoT connectivity, environmental sensing, and user interaction. Ideal as a desktop smart terminal or IoT development learning platform.
 Materials List And Important Notes:https://github.com/AndYou-a/ESP32-C3-Clock/blob/4e75d7cc0e85aebd8d4fcb729db71a940c304edb/list.notes
+![80097824b85e2bf1d27417dcf0d11cbe](https://github.com/user-attachments/assets/aa057a57-5442-4322-8433-60b31920f7bc)
+![c8c0215cec37bcd124b51ea81b5bafdb](https://github.com/user-attachments/assets/bb3ee20e-279f-45a3-bb19-ca75a43812e4)
+![47c000e698bfd3ea7fcf0f7873494151](https://github.com/user-attachments/assets/c1c2ace1-83f1-4f06-9670-ee31365de00a)
+![eee7815d4c2d6e730fa84b29f42587a0](https://github.com/user-attachments/assets/633d2775-11d7-43c3-82c1-4751161e88da)
