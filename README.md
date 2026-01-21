@@ -55,7 +55,6 @@ Temperature Compensation Algorithm: Uses SHT31 temperature data for precise batt
 Dual Battery Calibration: Separate ADC conversion factors and voltage divider ratios for STA and AP modes
 Time Sync Guarantee: 15-minute periodic synchronization with auto-reboot on failure, ensuring time accuracy
 Chinese Character Handling: Automatic filtering of non-ASCII characters in SSID for stable display
-Materials List And Important Notes:https://github.com/AndYou-a/ESP32-C3-Clock/blob/4e75d7cc0e85aebd8d4fcb729db71a940c304edb/list.notes
 Multiple Interaction Methods: Double-click for battery test, long press for reboot, single click for configuration page switching
 Hardware Configuration:
 MCU: ESP32-C3
@@ -65,3 +64,4 @@ Battery: 18650 lithium battery with voltage divider circuit measurement
 Interaction: GPIO1 capacitive touch button
 Pin Configuration: SDA(GPIO2), SCL(GPIO0), TFT screen uses dedicated SPI pins
 This is a fully-featured, visually stunning smart clock project that perfectly integrates IoT connectivity, environmental sensing, and user interaction. Ideal as a desktop smart terminal or IoT development learning platform.
+Materials List And Important Notes:https://github.com/AndYou-a/ESP32-C3-Clock/blob/4e75d7cc0e85aebd8d4fcb729db71a940c304edb/list.notes
